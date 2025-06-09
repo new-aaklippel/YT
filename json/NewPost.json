@@ -1,23 +1,28 @@
-[
-    {
-        "link": "https://youtube.com/shorts/Lq1wfpWs_b4",
-        "id": "Lq1wfpWs_b4",
-        "title": "Taxa de Radiação: Ficha técnica do Xiaomi Redmi Note 12S",
-        "type": "short"
+{
+    "destaque": {
+        "link": "https://aaklippel-64464.web.app/site/yt/content.html?id=xrn12s"
     },
-    {
-        "link": "https://youtube.com/shorts/wVLi1sRcv_M",
-        "id": "wVLi1sRcv_M",
-        "title": "Como criar uma conta no YouTube?",
-        "type": "short"
-    },
-    {
-        "link": "https://youtu.be/SqNhul3Nhv8",
-        "id": "SqNhul3Nhv8",
-        "title": "Como Criar uma conta no YouTube?",
-        "type": "video"
-    },
-    {
-        "type": "ads"
-    }
-]
+    "new": [
+        {
+            "link": "https://youtube.com/shorts/Lq1wfpWs_b4",
+            "id": "Lq1wfpWs_b4",
+            "title": "Taxa de Radiação: Ficha técnica do Xiaomi Redmi Note 12S",
+            "type": "short"
+        },
+        {
+            "link": "https://youtube.com/shorts/wVLi1sRcv_M",
+            "id": "wVLi1sRcv_M",
+            "title": "Como criar uma conta no YouTube?",
+            "type": "short"
+        },
+        {
+            "link": "https://youtu.be/SqNhul3Nhv8",
+            "id": "SqNhul3Nhv8",
+            "title": "Como Criar uma conta no YouTube?",
+            "type": "video"
+        },
+        {
+            "type": "ads"
+        }
+    ]
+}
