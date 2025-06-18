@@ -1,8 +1,14 @@
 [
     {
-        "thumb": "https://i.ytimg.com/vi/Bg1ue-ZLlOY/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCODaC-nhvi_qjzeh9pSkOI2GE7aw",
+        "thumb": "https://i.ytimg.com/vi/Bg1ue-ZLlOY/hqdefault.jpg",
         "link": "https://youtube.com/playlist?list=PLrjFM8KPZsmGC_0YJgi5mCzIv-l5l7BoT&si=KjR74toU7oeLmYCP",
         "title": "Save The Fish! (Jogo)",
+        "type": "playlist"
+    },
+    {
+        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmEiB9ZvJyEZbXPJloBSWwSH/studio_square_thumbnail.jpg",
+        "link": "https://youtube.com/playlist?list=PLrjFM8KPZsmEiB9ZvJyEZbXPJloBSWwSH&si=S1bJ2uWeC5O9SH6k",
+        "title": "YouTube Shorts (Tutoriais)",
         "type": "playlist"
     },
     {
