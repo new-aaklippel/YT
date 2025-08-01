@@ -1,13 +1,19 @@
 [
     {
-        "thumb": "https://i.ytimg.com/vi/Bg1ue-ZLlOY/hqdefault.jpg",
-        "link": "https://youtube.com/playlist?list=PLrjFM8KPZsmGC_0YJgi5mCzIv-l5l7BoT&si=KjR74toU7oeLmYCP",
+        "thumb": "https://i.ytimg.com/vi/Bg1ue-ZLlOY/maxresdefault.jpg",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmGC_0YJgi5mCzIv-l5l7BoT",
         "title": "Save The Fish! (Jogo)",
         "type": "playlist"
     },
     {
-        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmEiB9ZvJyEZbXPJloBSWwSH/studio_square_thumbnail.jpg?sqp=CLT41cIG-oaymwEICNYGEOADSFqi85f_AwYI39ebuAY=&rs=AOn4CLBeyqrccb_MXZ437-aInSGNe7PXAw",
-        "link": "https://youtube.com/playlist?list=PLrjFM8KPZsmEiB9ZvJyEZbXPJloBSWwSH&si=S1bJ2uWeC5O9SH6k",
+        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmFB7yubFh8fYckYkkAw3Cfx/studio_square_thumbnail.jpg?sqp=CIyxs8QG-oaymwEICNYGEOADSFqi85f_AwYIncGpxAY=&rs=AOn4CLCeMJbYjelfshR0Z1pE2wBsPJqBdw",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmFB7yubFh8fYckYkkAw3Cfx",
+        "title": "WhatsApp Vídeos (Tutoriais, Dicas e Notícias)",
+        "type": "playlist"
+    },
+    {
+        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmEiB9ZvJyEZbXPJloBSWwSH/studio_square_thumbnail.jpg?sqp=CO6_s8QG-oaymwEICNYGEOADSFqi85f_AwYI39ebuAY=&rs=AOn4CLCBS6XZXN7kt96YXvR7Rjen3JMN9g",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmEiB9ZvJyEZbXPJloBSWwSH",
         "title": "YouTube Shorts (Tutoriais)",
         "type": "playlist"
     },
