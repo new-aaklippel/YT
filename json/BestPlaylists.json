@@ -18,6 +18,51 @@
         "type": "playlist"
     },
     {
+        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmF-IbErANGdPMa82iBFWzOF/studio_square_thumbnail.jpg?sqp=COTYs8QG-oaymwEICNYGEOADSFqi85f_AwYI--W3uQY=&rs=AOn4CLBjOvowbPminXLO3zb4mwgLZD1n5Q",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmF-IbErANGdPMa82iBFWzOF",
+        "title": "Evolution Merge (Jogo)",
+        "type": "playlist"
+    },
+    {
+        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmH-EDiifjBWVBXSdLn1PIPV/studio_square_thumbnail.jpg?sqp=CK7Ts8QG-oaymwEICNYGEOADSFqi85f_AwYI097xwgY=&rs=AOn4CLAOPgubxR7oz5AEa5Q2m4PZkAYPEw",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmH-EDiifjBWVBXSdLn1PIPV",
+        "title": "Conteúdos diversos (Vídeos)",
+        "type": "playlist"
+    },
+    {
+        "type": "ads"
+    },
+    {
+        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmE-zOhehGdgq4T9ZWn20aU9/studio_square_thumbnail.jpg?sqp=CPDNs8QG-oaymwEICNYGEOADSFqi85f_AwYIm4yFvAY=&rs=AOn4CLDXX2Aai6506lNMnHUB1P3wcnwM2w",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmE-zOhehGdgq4T9ZWn20aU9",
+        "title": "Xiaomi (Tutoriais, Dicas e Notícias)",
+        "type": "playlist"
+    },
+    {
+        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmGXqizL5hCBNAuVSre3p6-1/studio_square_thumbnail.jpg?sqp=CPChs8QG-oaymwEICNYGEOADSFqi85f_AwYI4PjFuwY=&rs=AOn4CLDxf3i-5FpYBlO3hFiqdBYIl1tJOg",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmGXqizL5hCBNAuVSre3p6-1",
+        "title": "Aplicativos Indicados (Android/iOS)",
+        "type": "playlist"
+    },
+    {
+        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmFYjHCh2eA0lTXEasahdZiH/studio_square_thumbnail.jpg?sqp=CMPKs8QG-oaymwEICNYGEOADSFqi85f_AwYI5ZzZugY=&rs=AOn4CLDFHfnl-fTHYg0Su88hl6vQ-oQNXA",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmFYjHCh2eA0lTXEasahdZiH",
+        "title": "Um pouco de Mim!",
+        "type": "playlist"
+    },
+    {
+        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmEpaCOa-LNE9zfGFk2w2uh_/studio_square_thumbnail.jpg?sqp=CJi1s8QG-oaymwEICNYGEOADSFqi85f_AwYI64fowQY=&rs=AOn4CLBrupgy-ymxnau4YcCOuNslYrE-bQ",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmEpaCOa-LNE9zfGFk2w2uh_",
+        "title": "YouTube Vídeos (Tutoriais)",
+        "type": "playlist"
+    },
+    {
+        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmEkJ_-Ha45_EB-ezgZoePha/studio_square_thumbnail.jpg?sqp=CKnXs8QG-oaymwEICNYGEOADSFqi85f_AwYI08HUuAY=&rs=AOn4CLCTrcqhMkxsimyVgZtLgZ1uAo9s4w",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmEkJ_-Ha45_EB-ezgZoePha",
+        "title": "Google Chrome (Tutoriais)",
+        "type": "playlist"
+    },
+    {
         "type": "ads"
     }
 ]
