@@ -10,6 +10,9 @@
             "type": "short"
         },
         {
+            "type": "ads"
+        },
+        {
             "link": "https://youtu.be/-XYwnBmkGzA",
             "id": "-XYwnBmkGzA",
             "title": "O WhatsApp irá parar nesses 2 iPhones!",
@@ -71,9 +74,6 @@
             "id": "vVTDhtln7HA",
             "title": "Como ativar as Opções do desenvolvedor no Xiaomi HyperOS?",
             "type": "video"
-        },
-        {
-            "type": "ads"
         }
     ]
 }
