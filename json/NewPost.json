@@ -4,6 +4,12 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/OnjarhEkdKM",
+            "id": "OnjarhEkdKM",
+            "title": "Veja a lista dos smartphones mais radioativos!",
+            "type": "short"
+        },
+        {
             "link": "https://youtu.be/mPVxhIdPCLI",
             "id": "mPVxhIdPCLI",
             "title": "Veja a lista dos smartphones mais radioativos!",
@@ -62,12 +68,6 @@
             "id": "TkTp8-U8AEk",
             "title": "Os 10 Mandamentos da T.I.",
             "type": "short"
-        },
-        {
-            "link": "https://youtu.be/7_4MCjxtZvg",
-            "id": "7_4MCjxtZvg",
-            "title": "Os 10 Mandamentos da T.I.",
-            "type": "video"
         }
     ]
 }
