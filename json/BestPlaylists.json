@@ -6,6 +6,12 @@
         "type": "playlist"
     },
     {
+        "thumb": "https://raw.githubusercontent.com/new-aaklippel/YT/refs/heads/main/playlist/diversos_videos.jpg",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmH-EDiifjBWVBXSdLn1PIPV",
+        "title": "Conteúdos diversos (Vídeos)",
+        "type": "playlist"
+    },
+    {
         "thumb": "https://raw.githubusercontent.com/new-aaklippel/YT/refs/heads/main/playlist/wha_videos.jpg",
         "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmFB7yubFh8fYckYkkAw3Cfx",
         "title": "WhatsApp Vídeos (Tutoriais, Dicas e Notícias)",
@@ -21,12 +27,6 @@
         "thumb": "https://raw.githubusercontent.com/new-aaklippel/YT/refs/heads/main/playlist/evolution_merge.jpg",
         "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmF-IbErANGdPMa82iBFWzOF",
         "title": "Evolution Merge (Jogo)",
-        "type": "playlist"
-    },
-    {
-        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmH-EDiifjBWVBXSdLn1PIPV/studio_square_thumbnail.jpg?sqp=CK7Ts8QG-oaymwEICNYGEOADSFqi85f_AwYI097xwgY=&rs=AOn4CLAOPgubxR7oz5AEa5Q2m4PZkAYPEw",
-        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmH-EDiifjBWVBXSdLn1PIPV",
-        "title": "Conteúdos diversos (Vídeos)",
         "type": "playlist"
     },
     {
