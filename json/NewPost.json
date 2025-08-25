@@ -4,6 +4,12 @@
     },
     "new": [
         {
+            "link": "https://youtu.be/DkbLeWQ5McE",
+            "id": "DkbLeWQ5McE",
+            "title": "Como desativar a Realidade Aumentada em qualquer Android?",
+            "type": "video"
+        },
+        {
             "link": "https://youtube.com/shorts/OnjarhEkdKM",
             "id": "OnjarhEkdKM",
             "title": "Veja a lista dos smartphones mais radioativos!",
@@ -61,12 +67,6 @@
             "link": "https://youtube.com/shorts/kG1BJNveNYA",
             "id": "kG1BJNveNYA",
             "title": "Conta vô!",
-            "type": "short"
-        },
-        {
-            "link": "https://youtube.com/shorts/TkTp8-U8AEk",
-            "id": "TkTp8-U8AEk",
-            "title": "Os 10 Mandamentos da T.I.",
             "type": "short"
         }
     ]
