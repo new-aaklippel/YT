@@ -4,6 +4,12 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/m-DuuN5Wx7U",
+            "id": "https://youtube.com/shorts/m-DuuN5Wx7U",
+            "title": "É possível seguir uma conta privada no Pinterest?",
+            "type": "short"
+        },
+        {
             "link": "https://youtu.be/fZiaeVNqF18",
             "id": "fZiaeVNqF18",
             "title": "É possível seguir uma conta privada no Pinterest?",
@@ -62,12 +68,6 @@
             "id": "rdrh8GZgmyg",
             "title": "Como editar/trocar o nome de um canal no YouTube?",
             "type": "video"
-        },
-        {
-            "link": "https://youtube.com/shorts/4cWXAYKkcU4",
-            "id": "4cWXAYKkcU4",
-            "title": "Como seguir uma conta no Pinterest?",
-            "type": "short"
         }
     ]
 }
