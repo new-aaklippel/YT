@@ -4,6 +4,15 @@
     },
     "new": [
         {
+            "link": "https://youtu.be/fZiaeVNqF18",
+            "id": "fZiaeVNqF18",
+            "title": "É possível seguir uma conta privada no Pinterest?",
+            "type": "video"
+        },
+        {
+            "type": "ads"
+        },
+        {
             "link": "https://youtube.com/shorts/pOMWDyyPA4o",
             "id": "pOMWDyyPA4o",
             "title": "Como desativar a Realidade Aumentada em qualquer Android?",
@@ -59,15 +68,6 @@
             "id": "4cWXAYKkcU4",
             "title": "Como seguir uma conta no Pinterest?",
             "type": "short"
-        },
-        {
-            "link": "https://youtu.be/OpPOA2I_yXk",
-            "id": "OpPOA2I_yXk",
-            "title": "Como seguir uma conta no Pinterest?",
-            "type": "video"
-        },
-        {
-            "type": "ads"
         }
     ]
 }
