@@ -4,6 +4,12 @@
     },
     "new": [
         {
+            "link": "https://youtu.be/fquNvyb4gK8",
+            "id": "fquNvyb4gK8",
+            "title": "Smartphones da Samsung possui AR?",
+            "type": "video"
+        },
+        {
             "link": "https://youtube.com/shorts/fLxtbzE8ih0",
             "id": "fLxtbzE8ih0",
             "title": "Corre!!!",
@@ -62,12 +68,6 @@
             "id": "-XYwnBmkGzA",
             "title": "O WhatsApp irá parar nesses 2 iPhones!",
             "type": "video"
-        },
-        {
-            "link": "https://youtube.com/shorts/4Il9UIDQHL0",
-            "id": "4Il9UIDQHL0",
-            "title": "Como editar/trocar o nome de um canal no YouTube?",
-            "type": "short"
         }
     ]
 }
