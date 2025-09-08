@@ -4,6 +4,12 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/KL6jy_aSPqQ",
+            "id": "KL6jy_aSPqQ",
+            "title": "Os smartphones da Samsung possuem Realidade Aumentada?",
+            "type": "short"
+        },
+        {
             "link": "https://youtu.be/fquNvyb4gK8",
             "id": "fquNvyb4gK8",
             "title": "Smartphones da Samsung possui AR?",
@@ -62,12 +68,6 @@
         },
         {
             "type": "ads"
-        },
-        {
-            "link": "https://youtu.be/-XYwnBmkGzA",
-            "id": "-XYwnBmkGzA",
-            "title": "O WhatsApp irá parar nesses 2 iPhones!",
-            "type": "video"
         }
     ]
 }
