@@ -4,6 +4,15 @@
     },
     "new": [
         {
+            "link": "https://youtu.be/MgVRC77qX2Q",
+            "id": "MgVRC77qX2Q",
+            "title": "Teste de vídeo com IA.",
+            "type": "video"
+        },
+        {
+            "type": "ads"
+        },
+        {
             "link": "https://youtube.com/shorts/KL6jy_aSPqQ",
             "id": "KL6jy_aSPqQ",
             "title": "Os smartphones da Samsung possuem Realidade Aumentada?",
@@ -59,15 +68,6 @@
             "id": "mPVxhIdPCLI",
             "title": "Veja a lista dos smartphones mais radioativos!",
             "type": "video"
-        },
-        {
-            "link": "https://youtube.com/shorts/8XFUNOByDSY",
-            "id": "8XFUNOByDSY",
-            "title": "Save The Fish! Nível 399.",
-            "type": "short"
-        },
-        {
-            "type": "ads"
         }
     ]
 }
