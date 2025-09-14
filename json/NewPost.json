@@ -4,6 +4,12 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/GUSECOxSG60",
+            "id": "GUSECOxSG60",
+            "title": "O iPhone 17 chegou!",
+            "type": "short"
+        },
+        {
             "link": "https://youtu.be/RrOzEe56924",
             "id": "RrOzEe56924",
             "title": "O iPhone 17 chegou!",
@@ -62,12 +68,6 @@
             "id": "DkbLeWQ5McE",
             "title": "Como desativar a Realidade Aumentada em qualquer Android?",
             "type": "video"
-        },
-        {
-            "link": "https://youtube.com/shorts/OnjarhEkdKM",
-            "id": "OnjarhEkdKM",
-            "title": "Veja a lista dos smartphones mais radioativos!",
-            "type": "short"
         }
     ]
 }
