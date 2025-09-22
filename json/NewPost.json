@@ -4,6 +4,15 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/Xkp3qO7j5_8",
+            "id": "Xkp3qO7j5_8",
+            "title": "Fim de uma era... ",
+            "type": "short"
+        },
+        {
+            "type": "ads"
+        },
+        {
             "link": "https://youtu.be/DcFohySDYWA",
             "id": "DcFohySDYWA",
             "title": "O fim do Nova Launcher... ",
@@ -59,15 +68,6 @@
             "id": "m-DuuN5Wx7U",
             "title": "É possível seguir uma conta privada no Pinterest?",
             "type": "short"
-        },
-        {
-            "link": "https://youtu.be/fZiaeVNqF18",
-            "id": "fZiaeVNqF18",
-            "title": "É possível seguir uma conta privada no Pinterest?",
-            "type": "video"
-        },
-        {
-            "type": "ads"
         }
     ]
 }
