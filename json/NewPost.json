@@ -4,6 +4,11 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/aeSc3-87KZs",
+            "id": "aeSc3-87KZs",
+            "title": "Inscreva-se no canal!",
+            "type": "short"
+        },{
             "link": "https://youtube.com/shorts/Xkp3qO7j5_8",
             "id": "Xkp3qO7j5_8",
             "title": "Fim de uma era... ",
@@ -61,12 +66,6 @@
             "link": "https://youtube.com/shorts/fLxtbzE8ih0",
             "id": "fLxtbzE8ih0",
             "title": "Minha versão no Minecraft!",
-            "type": "short"
-        },
-        {
-            "link": "https://youtube.com/shorts/m-DuuN5Wx7U",
-            "id": "m-DuuN5Wx7U",
-            "title": "É possível seguir uma conta privada no Pinterest?",
             "type": "short"
         }
     ]
