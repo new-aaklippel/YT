@@ -4,6 +4,11 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/iGb08GalrP0",
+            "id": "iGb08GalrP0",
+            "title": "Bateria é a dica do dia!",
+            "type": "short"
+        },{
             "link": "https://youtube.com/shorts/aeSc3-87KZs",
             "id": "aeSc3-87KZs",
             "title": "Inscreva-se no canal!",
@@ -61,12 +66,6 @@
             "id": "fquNvyb4gK8",
             "title": "Smartphones da Samsung possui AR?",
             "type": "video"
-        },
-        {
-            "link": "https://youtube.com/shorts/fLxtbzE8ih0",
-            "id": "fLxtbzE8ih0",
-            "title": "Minha versão no Minecraft!",
-            "type": "short"
         }
     ]
 }
