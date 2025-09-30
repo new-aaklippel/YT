@@ -4,6 +4,11 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/Bjvp-RIF3-o",
+            "id": "Bjvp-RIF3-o",
+            "title": "Notificações é a dica do dia!",
+            "type": "short"
+        },{
             "link": "https://youtube.com/shorts/iGb08GalrP0",
             "id": "iGb08GalrP0",
             "title": "Bateria é a dica do dia!",
@@ -60,12 +65,6 @@
             "id": "KL6jy_aSPqQ",
             "title": "Os smartphones da Samsung possuem Realidade Aumentada?",
             "type": "short"
-        },
-        {
-            "link": "https://youtu.be/fquNvyb4gK8",
-            "id": "fquNvyb4gK8",
-            "title": "Smartphones da Samsung possui AR?",
-            "type": "video"
         }
     ]
 }
