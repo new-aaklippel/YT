@@ -4,6 +4,11 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/cR-f3KM5k4w",
+            "id": "cR-f3KM5k4w",
+            "title": Personagem do meu filho no Minecraft!",
+            "type": "short"
+        },{
             "link": "https://youtube.com/shorts/Bjvp-RIF3-o",
             "id": "Bjvp-RIF3-o",
             "title": "Notificações é a dica do dia!",
@@ -59,12 +64,6 @@
         },
         {
             "type": "ads"
-        },
-        {
-            "link": "https://youtube.com/shorts/KL6jy_aSPqQ",
-            "id": "KL6jy_aSPqQ",
-            "title": "Os smartphones da Samsung possuem Realidade Aumentada?",
-            "type": "short"
         }
     ]
 }
