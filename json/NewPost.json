@@ -4,6 +4,13 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/SByz7zwWq2o",
+            "id": "SByz7zwWq2o",
+            "title": "Carregad é a dica do dia!",
+            "type": "short"
+        },{
+            "type": "ads"
+        },{
             "link": "https://youtube.com/shorts/cR-f3KM5k4w",
             "id": "cR-f3KM5k4w",
             "title": "Personagem do meu filho no Minecraft!",
@@ -55,15 +62,6 @@
             "id": "RrOzEe56924",
             "title": "O iPhone 17 chegou!",
             "type": "video"
-        },
-        {
-            "link": "https://youtu.be/MgVRC77qX2Q",
-            "id": "MgVRC77qX2Q",
-            "title": "Teste de vídeo com IA.",
-            "type": "video"
-        },
-        {
-            "type": "ads"
         }
     ]
 }
