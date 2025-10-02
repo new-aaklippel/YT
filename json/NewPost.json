@@ -4,6 +4,11 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/qHfeOt2W9Tk",
+            "id": "qHfeOt2W9Tk",
+            "title": "Reiniciar é a dica do dia!",
+            "type": "short"
+        },{
             "link": "https://youtube.com/shorts/SByz7zwWq2o",
             "id": "SByz7zwWq2o",
             "title": "Carregador é a dica do dia!",
@@ -56,12 +61,6 @@
             "id": "GUSECOxSG60",
             "title": "O iPhone 17 chegou!",
             "type": "short"
-        },
-        {
-            "link": "https://youtu.be/RrOzEe56924",
-            "id": "RrOzEe56924",
-            "title": "O iPhone 17 chegou!",
-            "type": "video"
         }
     ]
 }
