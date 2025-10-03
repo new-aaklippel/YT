@@ -4,6 +4,11 @@
     },
     "new": [
         {
+            "link": "https://youtu.be/WK_f1TI-4lA",
+            "id": "WK_f1TI-4lA",
+            "title": "Como remover o texto da tela do Minecraft Beta PE?",
+            "type": "video"
+        },{
             "link": "https://youtube.com/shorts/qHfeOt2W9Tk",
             "id": "qHfeOt2W9Tk",
             "title": "Reiniciar é a dica do dia!",
@@ -54,12 +59,6 @@
             "link": "https://youtube.com/shorts/64Hv-LtKycw",
             "id": "64Hv-LtKycw",
             "title": "Entrando na trend rsrs",
-            "type": "short"
-        },
-        {
-            "link": "https://youtube.com/shorts/GUSECOxSG60",
-            "id": "GUSECOxSG60",
-            "title": "O iPhone 17 chegou!",
             "type": "short"
         }
     ]
