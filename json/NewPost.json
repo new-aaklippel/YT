@@ -4,6 +4,11 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/P5iYO8PT47c",
+            "id": "P5iYO8PT47c",
+            "title": "Beta text remover",
+            "type": "short"
+        },{
             "link": "https://youtu.be/WK_f1TI-4lA",
             "id": "WK_f1TI-4lA",
             "title": "Como remover o texto da tela do Minecraft Beta PE?",
@@ -54,12 +59,6 @@
             "id": "DcFohySDYWA",
             "title": "O fim do Nova Launcher... ",
             "type": "video"
-        },
-        {
-            "link": "https://youtube.com/shorts/64Hv-LtKycw",
-            "id": "64Hv-LtKycw",
-            "title": "Entrando na trend rsrs",
-            "type": "short"
         }
     ]
 }
