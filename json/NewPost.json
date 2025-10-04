@@ -4,6 +4,13 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/-QFQ82CEnAo",
+            "id": "-QFQ82CEnAo",
+            "title": "Atualização é a dica do dia!",
+            "type": "short"
+        },{
+            "type": "ads"
+        },{
             "link": "https://youtube.com/shorts/bdBbbkknluU",
             "id": "bdBbbkknluU",
             "title": "Software é a dica do dia!",
@@ -50,14 +57,6 @@
             "id": "aeSc3-87KZs",
             "title": "Inscreva-se no canal!",
             "type": "short"
-        },{
-            "link": "https://youtube.com/shorts/Xkp3qO7j5_8",
-            "id": "Xkp3qO7j5_8",
-            "title": "Fim de uma era... ",
-            "type": "short"
-        },
-        {
-            "type": "ads"
         }
     ]
 }
