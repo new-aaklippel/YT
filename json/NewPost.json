@@ -4,6 +4,16 @@
     },
     "new": [
         {
+            "link": "https://youtube.com/shorts/EnZwIIpz-DI",
+            "id": "EnZwIIpz-DI",
+            "title": "Desativar é a dica do dia!",
+            "type": "short"
+        },{
+            "link": "https://youtu.be/Vdk7WEQ4Av8",
+            "id": "Vdk7WEQ4Av8",
+            "title": "Como trocar de conta no YouTube? Remake 2025",
+            "type": "video"
+        },{
             "link": "https://youtube.com/shorts/6iVUWCZDBvU",
             "id": "6iVUWCZDBvU",
             "title": "Desinstalar é a dica do dia!",
@@ -47,16 +57,6 @@
             "type": "short"
         },{
             "type": "ads"
-        },{
-            "link": "https://youtube.com/shorts/cR-f3KM5k4w",
-            "id": "cR-f3KM5k4w",
-            "title": "Personagem do meu filho no Minecraft!",
-            "type": "short"
-        },{
-            "link": "https://youtube.com/shorts/Bjvp-RIF3-o",
-            "id": "Bjvp-RIF3-o",
-            "title": "Notificações é a dica do dia!",
-            "type": "short"
         }
     ]
 }
