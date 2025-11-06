@@ -4,54 +4,64 @@
         "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmGC_0YJgi5mCzIv-l5l7BoT",
         "title": "Save The Fish! (Jogo)",
         "type": "playlist"
-    },{
+    },
+    {
         "thumb": "https://raw.githubusercontent.com/new-aaklippel/YT/refs/heads/main/playlist/diversos_videos.jpg",
         "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmH-EDiifjBWVBXSdLn1PIPV",
         "title": "Conteúdos diversos (Vídeos)",
         "type": "playlist"
-    },{
+    },
+    {
         "thumb": "https://raw.githubusercontent.com/new-aaklippel/YT/refs/heads/main/playlist/noticias.jpg",
         "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmE3rYxQ9Vc-ZgmomhyrOv19",
         "title": "Notícias",
         "type": "playlist"
-    },{
+    },
+    {
         "thumb": "https://raw.githubusercontent.com/new-aaklippel/YT/refs/heads/main/playlist/wha_videos.jpg",
         "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmFB7yubFh8fYckYkkAw3Cfx",
         "title": "WhatsApp Vídeos (Tutoriais, Dicas e Notícias)",
         "type": "playlist"
-    },{
+    },
+    {
         "thumb": "https://raw.githubusercontent.com/new-aaklippel/YT/refs/heads/main/playlist/dicas_videos.jpg",
         "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmH_puNcc8d6dp2guanOJWcR",
         "title": "Dicas & Sugestôes (Android/iPhone)",
         "type": "playlist"
     },{
         "type": "ads"
-    },{
+    },
+    {
         "thumb": "https://raw.githubusercontent.com/new-aaklippel/YT/refs/heads/main/playlist/yt_shorts.jpg",
         "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmEiB9ZvJyEZbXPJloBSWwSH",
         "title": "YouTube Shorts (Tutoriais)",
         "type": "playlist"
-    },{
+    },
+    {
         "thumb": "https://raw.githubusercontent.com/new-aaklippel/YT/refs/heads/main/playlist/evolution_merge.jpg",
         "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmF-IbErANGdPMa82iBFWzOF",
         "title": "Evolution Merge (Jogo)",
         "type": "playlist"
-    },{
-        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmE-zOhehGdgq4T9ZWn20aU9/studio_square_thumbnail.jpg?sqp=CPDNs8QG-oaymwEICNYGEOADSFqi85f_AwYIm4yFvAY=&rs=AOn4CLDXX2Aai6506lNMnHUB1P3wcnwM2w",
-        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmE-zOhehGdgq4T9ZWn20aU9",
-        "title": "Xiaomi (Tutoriais, Dicas e Notícias)",
-        "type": "playlist"
-    },{
-        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmGXqizL5hCBNAuVSre3p6-1/studio_square_thumbnail.jpg?sqp=CPChs8QG-oaymwEICNYGEOADSFqi85f_AwYI4PjFuwY=&rs=AOn4CLDxf3i-5FpYBlO3hFiqdBYIl1tJOg",
-        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmGXqizL5hCBNAuVSre3p6-1",
-        "title": "Aplicativos Indicados (Android/iOS)",
-        "type": "playlist"
-    },{
+    },
+    {
         "thumb": "https://raw.githubusercontent.com/new-aaklippel/YT/refs/heads/main/playlist/evolution_merge.jpg",
         "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmFoQFhyRr0YvT1vn8uA0WKe",
         "title": "Pinterest (Vídeos)",
         "type": "playlist"
-    },{
+    },
+    {
+        "thumb": "https://raw.githubusercontent.com/new-aaklippel/YT/refs/heads/main/playlist/xiaomi_videos.jpg",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmE-zOhehGdgq4T9ZWn20aU9",
+        "title": "Xiaomi (Tutoriais, Dicas e Notícias)",
+        "type": "playlist"
+    },
+    {
+        "thumb": "https://i.ytimg.com/pl_c/PLrjFM8KPZsmGXqizL5hCBNAuVSre3p6-1/studio_square_thumbnail.jpg?sqp=CPChs8QG-oaymwEICNYGEOADSFqi85f_AwYI4PjFuwY=&rs=AOn4CLDxf3i-5FpYBlO3hFiqdBYIl1tJOg",
+        "link": "https://www.youtube.com/playlist?list=PLrjFM8KPZsmGXqizL5hCBNAuVSre3p6-1",
+        "title": "Aplicativos Indicados (Android/iOS)",
+        "type": "playlist"
+    },
+    {
         "type": "ads"
     }
 ]
